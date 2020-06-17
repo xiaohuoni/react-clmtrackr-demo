@@ -1,0 +1,16 @@
+{
+  "name": "react-clmtrackr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clmtrackr": "^1.1.2",
+    "umi": "^3.2.3"
+  }
+}
